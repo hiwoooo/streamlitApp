@@ -96,7 +96,7 @@ inp = st.container()
 pred = st.container()
 
 with header:
-    st.image('bgc1.png')
+    st.image('bgc1.jpeg')
     st.title('감정 분석 음악 추천 서비스')
     st.markdown('**캡처된 당신의 얼굴 사진을 분석 후 감정에 따른 음악 추천을 드립니다.**')
 
